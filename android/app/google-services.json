@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "747019378213",
+    "firebase_url": "https://app-climbers-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "app-climbers",
+    "storage_bucket": "app-climbers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747019378213:android:438ec3e93e6a81995da9cc",
+        "android_client_info": {
+          "package_name": "com.app_climbers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "747019378213-588un2ntck0ubfbsqtfs2601v8rd0jro.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app_climbers",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "747019378213-v3mut66rchb14p6gfe43oc5jeahvj3jo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAchopeYCDpT38Kk8AHvNdRu1xl-6TEFb0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "747019378213-pcht36pku3tu25i2i33nt2kib9tosrn6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "747019378213-87j7mavrrc6akngpppa979bp8afu0mt3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.app-climbers"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747019378213:android:e766b36852eae4785da9cc",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "747019378213-v3mut66rchb14p6gfe43oc5jeahvj3jo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAchopeYCDpT38Kk8AHvNdRu1xl-6TEFb0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "747019378213-pcht36pku3tu25i2i33nt2kib9tosrn6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "747019378213-87j7mavrrc6akngpppa979bp8afu0mt3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.app-climbers"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747019378213:android:741ef53658eead425da9cc",
+        "android_client_info": {
+          "package_name": "com.qr_register"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "747019378213-2djq6id7m14jgea7q5kpl8uroo04dulj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.qr_register",
+            "certificate_hash": "eca5a34ad1a4b8132173c736902494ad6597d273"
+          }
+        },
+        {
+          "client_id": "747019378213-v3mut66rchb14p6gfe43oc5jeahvj3jo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAchopeYCDpT38Kk8AHvNdRu1xl-6TEFb0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "747019378213-pcht36pku3tu25i2i33nt2kib9tosrn6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "747019378213-87j7mavrrc6akngpppa979bp8afu0mt3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.app-climbers"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
